@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aditya11ak/React-Textapp_pro.git/static/css/main.23669667.css",
-    "main.js": "/Aditya11ak/React-Textapp_pro.git/static/js/main.0fcc3389.js",
-    "static/js/453.595cc30a.chunk.js": "/Aditya11ak/React-Textapp_pro.git/static/js/453.595cc30a.chunk.js",
-    "index.html": "/Aditya11ak/React-Textapp_pro.git/index.html",
-    "main.23669667.css.map": "/Aditya11ak/React-Textapp_pro.git/static/css/main.23669667.css.map",
-    "main.0fcc3389.js.map": "/Aditya11ak/React-Textapp_pro.git/static/js/main.0fcc3389.js.map",
-    "453.595cc30a.chunk.js.map": "/Aditya11ak/React-Textapp_pro.git/static/js/453.595cc30a.chunk.js.map"
+    "main.css": "/Aditya11ak/React-Textapp_pro/static/css/main.23669667.css",
+    "main.js": "/Aditya11ak/React-Textapp_pro/static/js/main.a0511683.js",
+    "static/js/453.595cc30a.chunk.js": "/Aditya11ak/React-Textapp_pro/static/js/453.595cc30a.chunk.js",
+    "index.html": "/Aditya11ak/React-Textapp_pro/index.html",
+    "main.23669667.css.map": "/Aditya11ak/React-Textapp_pro/static/css/main.23669667.css.map",
+    "main.a0511683.js.map": "/Aditya11ak/React-Textapp_pro/static/js/main.a0511683.js.map",
+    "453.595cc30a.chunk.js.map": "/Aditya11ak/React-Textapp_pro/static/js/453.595cc30a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23669667.css",
-    "static/js/main.0fcc3389.js"
+    "static/js/main.a0511683.js"
   ]
 }
