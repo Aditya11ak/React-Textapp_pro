@@ -1,0 +1,37 @@
+body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* for default white background  */
+/* body {
+    background-color: #bcb8b1;
+    color: #463f3a;
+} */
+
+
+/* /* for default balck bacground */
+body {
+    background-color: #282828;
+    color: white;
+
+}
+
+
+
+
+button {
+    margin-right: 10px;
+}
+
+@media (max-width:1024px) {
+    textarea {
+        height: 300px;
+    }
+
+    button {
+        margin-top: 20px;
+    }
+}

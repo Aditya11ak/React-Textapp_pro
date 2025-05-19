@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+@media (max-width:425px) {
+  body {
+    font-size: small;
+
+  }
+
+  .container {
+    padding: 0px 20px 0px 20px;
+  }
+}
